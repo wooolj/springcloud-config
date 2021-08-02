@@ -14,7 +14,7 @@ config:
       name: 
       password: 
     templates:
-      checkcode:
+      checkcode: JSVVNPUSIHFTHPRJ
         title: 注册验证码
         content: 您好，本次登录的验证码为：%s，将在10分钟之后过期
 
